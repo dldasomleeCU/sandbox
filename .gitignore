@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and outputs
+snippets.csv
+batch_summaries.csv
+final_themes.csv
+
